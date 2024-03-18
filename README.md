@@ -30,7 +30,7 @@ This Django project allows users to upload CSV or Excel files, where the applica
     #linux
     source <your_env_name>/bin/activate
     #windows
-    <your_env_name>/Scripts\activate
+    <your_env_name>\Scripts\activate.bat
     ```
 
 4. Install the required dependencies using pip:
